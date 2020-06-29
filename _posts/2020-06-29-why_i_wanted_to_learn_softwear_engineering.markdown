@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I Wanted To Learn Softwear Engineering."
-date:       2020-06-29 22:22:52 +0000
+date:       2020-06-29 18:22:53 -0400
 permalink:  why_i_wanted_to_learn_softwear_engineering
 ---
 
